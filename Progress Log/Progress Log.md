@@ -1,4 +1,6 @@
 Planned Deadlines:
+
+
 ADC proof of concept - 7.7.2023.(complete)
 ADC prototype - 31.7.2023.
 ADC fully functional version - 15.8.2023.
